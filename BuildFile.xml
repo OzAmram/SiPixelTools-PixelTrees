@@ -8,11 +8,13 @@
 <use   name="Geometry/TrackerGeometryBuilder"/>
 <use   name="Geometry/TrackerNumberingBuilder"/>
 <use   name="Geometry/Records"/>
+<use   name="Geometry/CaloGeometry"/>
 <use   name="DataFormats/L1Trigger"/>
 <use   name="DataFormats/LTCDigi"/>
 <use   name="DataFormats/MuonReco"/>
 <use   name="DataFormats/SiStripDetId"/>
 <use   name="DataFormats/SiPixelDetId"/>
+<use   name="DataFormats/TrackerCommon"/>
 <use   name="DataFormats/TrackerRecHit2D"/>
 <use   name="DataFormats/TrackingRecHit"/>
 <use   name="DataFormats/SiStripCluster"/>
